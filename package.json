@@ -1,0 +1,25 @@
+{
+  "name": "Projeto-express",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "Servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YarusskiDev/Projeto-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YarusskiDev/Projeto-express/issues"
+  },
+  "homepage": "https://github.com/YarusskiDev/Projeto-express#readme",
+  "dependencies": {
+    "express": "4.16.2",
+    "nodemon": "^2.0.6"
+  }
+}
